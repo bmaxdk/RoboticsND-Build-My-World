@@ -1,5 +1,4 @@
-# Udacity Robotics Nanodegree
-Project #2 for Udacity's Robotics Nanodegree - Go Chase It
+<h1 align="center">Project #2 for Udacity's Robotics Nanodegree - Go Chase It</h1>
 
 [image1]: img1.png "img1"
 ![alt text][image1]
